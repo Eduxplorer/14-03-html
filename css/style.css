@@ -221,3 +221,62 @@
     border: solid red;
     margin-left: 130px;
 }
+
+.underline {
+    text-decoration: underline;
+}
+.line-through{
+    text-decoration: line-through;
+}
+.underline-remove{
+    text-decoration: none;
+    color: red;
+}
+.upper{
+    text-transform: uppercase;
+}
+.lower{
+    text-transform: lowercase;
+}
+.spacing{
+    letter-spacing: 5px;
+}
+.serif{
+    font-family: Georgia;
+}
+.sans-serif{
+    font-family: Helvetica;
+}
+.monospace{
+    font-family: Courier 'Courier New';
+}
+.cursive{
+    font-family: cursive;
+}
+.fantasy{
+    font-family: fantasy;
+}
+.italic{
+    font-family: italic;
+}
+.oblique{
+    font-family: oblique;
+}
+.thin, .bold, .bolder {
+    font-family: Helvetica;
+}
+.thin{
+    font-weight: 100;
+}
+.bold{
+    font-weight: 600;
+}
+.bolder {
+    font-weight: 900;
+}
+.big{
+    font-size: 78px;
+}
+.small{
+    font-size: 6px;
+}
